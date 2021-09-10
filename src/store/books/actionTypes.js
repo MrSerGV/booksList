@@ -1,0 +1,4 @@
+export const TRIGGER_FETCH_BOOKS = 'TRIGGER_FETCH_BOOKS';
+export const FETCH_SUCCEEDED = 'FETCH_SUCCEEDED';
+export const FETCH_FAILED = 'FETCH_FAILED';
+export const ADD_BOOK = 'ADD_BOOK';
